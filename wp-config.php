@@ -21,13 +21,13 @@
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'local' );
+define( 'DB_NAME', 'washingtone_wp_db' );
 
 /** Database username */
-define( 'DB_USER', 'root' );
+define( 'DB_USER', 'washingtone' );
 
 /** Database password */
-define( 'DB_PASSWORD', 'root' );
+define( 'DB_PASSWORD', 'washingtone' );
 
 /** Database hostname */
 define( 'DB_HOST', 'localhost' );
